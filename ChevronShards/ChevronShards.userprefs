@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5211F421-B59C-4518-905E-DC83B260B376}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChevronShards/Game1.cs">
+    <Files>
+      <File FileName="ChevronShards/Game1.cs" Line="33" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChevronShards PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,30 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChevronShards", "ChevronShards\ChevronShards.csproj", "{5211F421-B59C-4518-905E-DC83B260B376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5211F421-B59C-4518-905E-DC83B260B376}.Debug|x86.ActiveCfg = Debug|x86
+		{5211F421-B59C-4518-905E-DC83B260B376}.Debug|x86.Build.0 = Debug|x86
+		{5211F421-B59C-4518-905E-DC83B260B376}.Release|x86.ActiveCfg = Release|x86
+		{5211F421-B59C-4518-905E-DC83B260B376}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.inheritsScope = text/plain
+		$2.scope = application/config+xml
+		$0.XmlFormattingPolicy = $3
+		$3.inheritsSet = null
+		$3.scope = application/config+xml
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+Game Error Codes:
+
+Game Error Codes are represented as: GEXXXXAAA
+
+Where GE stands for Game Error.
+XXXX is the Error Number.
+AAA is a short 3 letter description of the type of error.
+
+Use Cntr and F or Cmd and F to find a Game Error code.
+
+
+GE0000SPB - A SpriteBatch error or GraphicsDevice error Occurred.
+GE0001TEX - The Texture for GameError could not be loaded.
+GE0002TEX - A Texture could not be loaded.
+GE0003TEX - Enemy Textures could not be loaded.
+GE0004TEX - Item Textures could not be loaded.
+GE0005FON - Fonts could not be loaded.
+GE0006WIN - Window size could not be set.
+GE0007INI - An error occurred during initialisation.
+GE0008LGF - Could not load game file or game file corruption.
